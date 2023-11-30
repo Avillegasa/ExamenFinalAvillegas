@@ -1,0 +1,29 @@
+  .contenedor {
+    color: black;
+    background-color: #29292E;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    height: 140px;
+    width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .contenedor-texto {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    color: white;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .tarjeta-nombre {
+    margin: 0;
+    color: white;
+  }
+  .imagen{
+    display: flex;
+    width: 150px;
+    height: 150px;
+  }
